@@ -13,14 +13,15 @@
 ![Header](https://github.com/EgorGolub/AriEgo/assets/90320047/f918688e-2291-432d-8b0f-236bcbc7e853)
 
 ## Услуги
-   ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/d879a68b-2dbd-45bc-be35-997eee0cf8e8)
-   ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/1fdfadf8-92bf-4aa9-a10f-6ec64e744dd4)
+![image](https://github.com/EgorGolub/AriEgo/assets/90320047/c0376000-d37f-46fc-8120-77a8bd67ed5b)
+![image](https://github.com/EgorGolub/AriEgo/assets/90320047/1def0980-e2f2-4289-b2b0-d4732d10d7cb)
 ## О компании
-   ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/8e4c6d06-5adb-4718-864c-c91e46cba8a7)
+![image](https://github.com/EgorGolub/AriEgo/assets/90320047/e08bd75f-eb99-4db5-99cc-cf0ce9fd53dc)
 ## Галерея
-   ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/fb6c5421-9af1-4438-a0b9-a112bf4c99c8)
+![image](https://github.com/EgorGolub/AriEgo/assets/90320047/885230f9-a9a5-4c12-8917-68b014e6f895)
 ## Контакты
-   ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/38fc791e-b075-43c8-ab31-0767f34eb8a4)
+![image](https://github.com/EgorGolub/AriEgo/assets/90320047/3fb6b276-27a6-446f-bf21-5572c9365d35)
+
 
 # Как установить:
 1. Создание папки с названием проекта "AriEgo OÜ"
