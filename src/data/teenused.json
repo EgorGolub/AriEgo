@@ -1,0 +1,32 @@
+[
+    {
+        "image":"https://www.spoonest.ee/uploads/1/1/3/9/113921183/sokkel-1.jpg",
+        "title":"Vundamendi soojustamine",
+        "decription":"Enne tööde alustamist viiakse läbi ettevalmistav etapp, mis hõlmab pindade puhastamist, varjatud defektide tuvastamist ja vundamendi ettevalmistamist soojusisolatsiooni jaoks. Seejärel kantakse spetsialistide poolt professionaalselt soojustusmaterjal, tagades ühtlase katte ja usaldusväärse kaitse soojuskadude ja niiskuse eest."
+    },
+    {
+        "image":"https://rakennus24.ee/wp-content/uploads/2022/02/sokkel-3.jpg",
+        "title":"Sokli ja sillutusriba taastamine",
+        "decription":"Enne tööde alustamist viiakse läbi ettevalmistav etapp, mis hõlmab pinna puhastamist, vana katte eemaldamist ja kahjustuste parandamist. Seejärel asuvad spetsialistid taastama soklit ja kaldteed, kasutades kvaliteetseid materjale ja kaasaegseid tehnoloogiaid."
+    },
+    {
+        "image":"https://www.teenus.info/images/15889-350/eramaja-soojustamine-ja-viimistlus.jpg",
+        "title":"Fassaadi soojustamine ja viimistlus",
+        "decription":"Enne fassaadi soojustamist ja viimistlemist viiakse läbi ettevalmistav etapp, mis hõlmab pinna puhastamist, kahjustuste parandamist ja vajadusel aluspõhja tugevdamist. Seejärel asuvad meie kogenud meistrid paigaldama soojustusmaterjale, tagades efektiivse kaitse soojuskadude vastu ning luues mugava sisekliima."
+    },
+    {
+        "image":"https://coralroof.ee/wp-content/uploads/2021/03/katuset%C3%B6%C3%B6d-1-1024x768.jpg",
+        "title":"Katusetööd",
+        "decription":"Pakume täisteenust, alustades katuse seisukorra diagnoosimisest ja individuaalse projekti väljatöötamisest kuni uue katusekonstruktsiooni paigaldamiseni ja olemasoleva katuse remondini. Meie meistrid töötavad erinevate materjalidega, sealhulgas metalli, keraamilise katusekivi, katusekatte ja teistega."
+    },
+    {
+        "image":"https://static.soov.ee/listing/1_10_2TpdN984ZSIm1672677516.jpg",
+        "title":"Eramajade ehitamine",
+        "decription":"Meie spetsialiseerume erinevate siseviimistlustööde teostamisele, sealhulgas krohvimistööd, seinte ja lagede värvimist, põrandakatete paigaldamist, uste ja akende paigaldamist ning küte ja ventilatsioonisüsteemide paigaldamist."
+    },
+       {
+        "image":"https://viimistlusehitus.ee/wp-content/uploads/2021/08/Keila-Pollu-1-scaled.jpg",
+        "title":"Hoonete remont ja rekonstrueerimine",
+        "decription":"Me töötame tihedas koostöös iga kliendiga, arvestades nende individuaalseid soove ja vajadusi. Meie meeskond kogenud arhitekte aitab välja töötada ainulaadse projekti, mis vastab teie funktsionaalsuse ja stiili nõuetele. Samuti oleme valmis pakkuma laia valikut kaasaegseid ja usaldusväärseid ehitusmaterjale, et teie kodu oleks mitte ainult ilus, vaid ka vastupidav."
+    }
+]

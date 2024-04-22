@@ -1,0 +1,26 @@
+{
+  "short_name": "hueta",
+  "name": "ababaa",
+  "icons": [
+   
+    {
+      "src": "kopkes.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "kopkes.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "kopkes.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
