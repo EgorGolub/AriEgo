@@ -9,16 +9,17 @@
 3. React - Верстка 
 # Функционал Сайта:
 Вы можете просмотреть всю информацию об этой строительной компании например:
+##Главная страница
 ![Header](https://github.com/EgorGolub/AriEgo/assets/90320047/f918688e-2291-432d-8b0f-236bcbc7e853)
 
-1. Услуги
+##Услуги
    ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/d879a68b-2dbd-45bc-be35-997eee0cf8e8)
    ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/1fdfadf8-92bf-4aa9-a10f-6ec64e744dd4)
-3. Об компании
+##Об компании
    ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/8e4c6d06-5adb-4718-864c-c91e46cba8a7)
-5. Галерея
+##Галерея
    ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/fb6c5421-9af1-4438-a0b9-a112bf4c99c8)
-7. Контакты
+##Контакты
    ![image](https://github.com/EgorGolub/AriEgo/assets/90320047/38fc791e-b075-43c8-ab31-0767f34eb8a4)
 
 # Как установить:
