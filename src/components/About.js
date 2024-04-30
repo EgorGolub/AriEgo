@@ -1,59 +1,44 @@
 import React from 'react';
-import gallery1 from '../assets/MySpacepep.png';
-import gallery2 from '../assets/Homedom.png';
-import gallery3 from '../assets/Editruk.png';
 import Teenused from '../components/Teenused';
+import categories from '../data/categories.json';
+import about from '../data/about.json';
 
 export default function About() {
-  return (<>
-    <div id="description" style={{ backgroundColor: '#f4f4f4' }}>
-      <div id="descBg">
-        <div className="descContainer">
-          <div className="descHeading">
-            <div className="descHeadingColor">
-              <h2>MEIE KOHTA JA TEENUSED</h2>
+  return (
+    <>
+      <div id="description" style={{ backgroundColor: '#f4f4f4' }}>
+        <div id="descBg">
+          <div className="descContainer">
+            <div className="descHeading">
+              <div className="descHeadingColor">
+                <h2>MEIE KOHTA JA TEENUSED</h2>
+              </div>
             </div>
-          </div>
-          <div className="descBoxes">
-            <div className="descBox">
-              <img src={gallery1} alt="logo" />
-              <h3>TEENUSED</h3>
-              <ul>
-                <li> Vundamendi soojustamine</li>
-                <li> Sokli ja sillutusriba taastamine</li>
-                <li> Fassaadi soojustamine ja viimistlus</li>
-                <li> Katusetööd</li>
-                <li> Siseviimistlustööd</li>
-                <li> Eramajade ehitamine</li>
-                <li> Hoonete remont ja rekonstrueerimine</li>
-              </ul>
-            </div>
-            <div className="descBox">
-              <img src={gallery2} alt="logo" />
-              <h3>ÜLDEHITUS</h3>
-              <p className="teenused">
-                Üldehitus hõlmab erinevate hoonete ehitust alates äri- ja büroohoonetest, kuni
-                avalike ja elukondlike ning spetsiifiliste tööstushooneteni. Meie ettevõtte pakub
-                ehituse peatöövõtu raames kvaliteetset terviklahendust vastavalt tellija
-                vajadustele: ettevalmistus, ehitus, sisustus ja garantiiaegne teenindus.
-              </p>
-            </div>
-            <div className="descBox">
-              <img src={gallery3} alt="logo" />
-              <h3>INNOVATIIVSUS</h3>
-              <p className="teenused">
-                Areneva ja innovatiivse organisatsioonina panustame õppimisele ja juhtimissüsteemi
-                pidevale parendamisele, sest vaid nii suudame tagada projektide edukuse ja ettevõtte
-                jätkusuutlikkuse. Meie meeskonna moodustavad ehituslikku kõrgharidust ja
-                aastatepikkust ehitusjuhtimise kogemust omavad spetsialistid.{' '}
-              </p>
+            <div className="descBoxes">
+              <div className="descBox">
+                <img src="img/MySpacepep.png" alt="logo" />
+                <h3>TEENUSED</h3>
+                <ul>
+                  {categories.map((data, index) => (
+                    <li key={index}>{data}</li>
+                  ))}
+                </ul>
+                <i>
+                  <a href="#teenused">Rohkem ...</a>
+                </i>
+              </div>
+              {about.map((data, index) => (
+                <div className="descBox" key={index}>
+                  <img src={data.image} alt="logo" />
+                  <h3>{data.title}</h3>
+                  <p className="teenused">{data.description}</p>
+                </div>
+              ))}
             </div>
           </div>
         </div>
       </div>
-     
-    </div>
-     <Teenused />
-     </>
+      <Teenused />
+    </>
   );
 }

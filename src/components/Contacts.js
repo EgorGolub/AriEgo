@@ -7,7 +7,7 @@ import Jobswork from '../assets/Permanent Jobwork.png';
 
 export default function Contacts() {
   return (
-    <section id="contacts">
+    <section id="contacts" style={{ paddingTop: '5rem'}}>
       <div class="contacts-page">
         <div class="top-container">
           <h2>KONTAKT</h2>
